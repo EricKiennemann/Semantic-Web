@@ -4,7 +4,7 @@ In this Repositary the used skills are
 
 ## Langage
 * XML
-* Turtle
+* Turtle/N3
 * SPARQL
 * SHACL
 
